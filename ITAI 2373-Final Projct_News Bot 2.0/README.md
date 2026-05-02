@@ -1,4 +1,5 @@
-This is a group project by Team: The Awesome Group, Lufei Yu & Richard Cortez.
+# ITAI 2373-Final Projct_News Bot 2.0
+# This is a group project by Team: The Awesome Group, Lufei Yu & Richard Cortez.
 
 News Bot Intelligent System 2.0 is an advanced Natural Language Processing (NLP) project designed to analyze, interpret, and generate insights derived from large-scale news and text data. 
 This system exemplifies the integration of modern machine learning techniques with practical applications within real-world, unstructured data environments.
