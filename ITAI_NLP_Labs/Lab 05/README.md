@@ -1,5 +1,5 @@
 
-# Lab 05 – Text Classification with Machine Learning
+# Lab 05 – Part-of-Speech Tagging in the Real World
 
 ## Problem Statement
 The goal of this lab is to build a machine learning model that can classify text into predefined categories. This lab demonstrates how feature extraction, preprocessing, and supervised learning techniques can be combined to solve real‑world NLP classification tasks.
