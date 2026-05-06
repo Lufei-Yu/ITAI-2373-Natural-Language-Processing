@@ -3,6 +3,7 @@
 # Team Members
 The Awesome Group, Lufei Yu & Richard Cortez.
 
+# Introdution
 News Bot Intelligent System 2.0 is an advanced Natural Language Processing (NLP) project designed to analyze, interpret, and generate insights derived from large-scale news and text data. 
 This system exemplifies the integration of modern machine learning techniques with practical applications within real-world, unstructured data environments.
 
