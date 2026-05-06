@@ -1,4 +1,4 @@
-# Lab 02 
+# Lab 02 Basic NLP Preprocessing Techniques
 
 ## Problem Statement
 This lab focuses on the foundational preprocessing steps required for Natural Language Processing tasks. The goal is to clean, normalize, and transform raw text into structured representations that machine learning models can understand.
