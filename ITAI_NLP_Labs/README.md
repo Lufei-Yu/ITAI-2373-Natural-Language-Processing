@@ -27,7 +27,10 @@ Covers distributed word representations and semantic modeling:
 Applies machine learning models to classify text:
 - Feature extraction (TF‑IDF, embeddings)  
 - Training classifiers (Naive Bayes, Logistic Regression, SVM, etc.)  
-- Evaluating accuracy, precision, recall, and F1‑score  
+- Evaluating accuracy, precision, recall, and F1‑score
+
+### ** Lab 07 – Sentiment and Emotion Analysis in the Real World**
+The process of computationally identifying and categorizing emotions, opinions, and attitudes expressed in text and speech.
 
 ---
 
